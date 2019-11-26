@@ -15358,4 +15358,4 @@
 #Google XN End
  
 #Modified Hosts End
-45.224.129.24 psteam.com.br
+192.168.1.1 psteam.com.br
